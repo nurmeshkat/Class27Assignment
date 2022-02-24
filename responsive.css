@@ -1,0 +1,188 @@
+
+
+@media (max-width:1000px ) {
+    .banner h1 {
+        font-size: 55px;
+    }
+    .about-section img {
+        width: 100%;
+        padding: 15px;
+    }
+    .about-section .content {
+        padding: 20px 15px 20px;
+    }
+    .about {
+        width: 100%;
+        padding: 0 25px;
+    }
+    .about h2 {
+        text-align: center;
+    }
+}
+@media (max-width:960px ) {
+    .header-menu ul li a {
+        line-height: 78px;
+    }
+    .header-logo a {
+        font-size: 25px;
+        line-height: 77px;
+    }
+    .service-section {
+        margin-top: 40px;
+        padding: 0;
+    }
+    .service {
+        margin: 20px 0px;
+    }
+    .service1 {
+        width: 50%;
+        margin: 10px 0;
+    }
+    .service2 {
+        width: 50%;
+        margin: 10px 0;
+    }
+    .service3 {
+        width: 50%;
+        margin: 10px 0;
+    }
+    .service4 {
+        width: 50%;
+        margin: 10px 0;
+    }
+}
+@media (max-width:868px ) {
+    .header-menu ul li a {
+        padding: 0 10px;
+    }
+    .banner {
+        padding: 140px 0;
+    }
+    .contact-section .contact3 {
+        width: 33%;
+    }
+}
+@media (max-width:810px ) {
+    .header-menu {
+        width: 100%;
+    }
+    .header-menu ul li a {
+        line-height: 42px;
+        padding: 0 17px;
+    }
+    .header-logo {
+        width: 100%;
+    }
+    .header-menu ul li a {
+        line-height: 65px;
+    }
+    .header-logo a {
+        line-height: 42px;
+    }
+}
+@media (max-width:750px ) {
+    .banner h1 {
+        font-size: 50px;
+    }
+    .banner h2 {
+        font-size: 21px;
+    }
+    .banner {
+        padding: 109px 0;
+    }
+    .contact-section {
+        padding: 30px;
+    }
+    .contact-section .contact1 {
+        width: 100%;
+    }
+    .contact-section .contact2 {
+        margin-top: 10px;
+        width: 100%;
+    }
+    .contact-section .contact3 {
+        margin-top: 10px;
+        width: 100%;
+    }
+}
+@media (max-width:642px ) {
+    .banner {
+        padding: 90px 0;
+    }
+    .banner h1 {
+        font-size: 45px;
+    }
+    .banner h2 {
+        font-size: 20px;
+    }
+    .banner a {
+        font-size: 23px;
+        padding: 6px 20px;
+    }
+}
+@media (max-width:590px ) {
+    .header-menu ul li a {
+        padding: 0 10px;
+    }
+}
+@media (max-width:550px ) {
+    .banner h1 {
+        font-size: 40px;
+    }
+    .banner h2 {
+        font-size: 18px;
+    }
+    .banner a {
+        font-size: 20px;
+    }
+    .service {
+        margin: 50px 0px;
+    }
+    .service-section p {
+        padding: 5px 8px;
+    }
+    .service1 {
+        width: 100%;
+    }
+    .service2 {
+        width: 100%;
+        margin: 30px 0;
+    }
+    .service3 {
+        width: 100%;
+        margin: 30px 0;
+    }
+    .service4 {
+        width: 100%;
+        margin: 30px 0;
+    }
+    .service-section p {
+        padding: 5px 0px;
+    }
+    .service-section {
+        margin-top: 20px;
+    }
+}
+@media (max-width:502px ) {
+    .header-menu ul li a {
+        font-size: 15px;
+        padding: 0 8px;
+    }
+}
+@media (max-width:467px ) {
+    .header-menu ul li a {
+        padding: 0 5px;
+    }
+}
+@media (max-width:443px ) {
+    .banner {
+        padding: 60px 0;
+    }
+    .banner h1 {
+        font-size: 30px;
+    }
+    .banner a {
+        font-size: 17px;
+        padding: 6px 16px;
+    }
+}
